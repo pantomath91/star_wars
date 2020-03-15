@@ -1,4 +1,4 @@
-Install all dependencies through ### 'yarn install' command, you should have yarn install in your computer. If you don't have yarn, download it from yarn website https://classic.yarnpkg.com/en/
+Install all dependencies through ### `yarn install` command, you should have yarn install in your computer. If you don't have yarn, download it from yarn website https://classic.yarnpkg.com/en/
 
 ### `yarn start`
 
